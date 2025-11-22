@@ -1,0 +1,5 @@
+{
+  "name": "BULLPLANNER",
+  "description": "A smart schedule planner for USF students that uses Gemini AI to suggest optimal study blocks based on your classes and extracurriculars.",
+  "requestFramePermissions": []
+}
